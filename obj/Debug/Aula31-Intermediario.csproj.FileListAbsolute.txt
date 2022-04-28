@@ -1,0 +1,11 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\bin\Debug\Aula31-Intermediario.exe.config
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\bin\Debug\Aula31-Intermediario.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\bin\Debug\Aula31-Intermediario.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31-Intermediario.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31-Intermediario.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31_Intermediario.Form1.resources
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31_Intermediario.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31-Intermediario.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31-Intermediario.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31-Intermediario.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\cSharpIntermediario\Aula1Intermediario\Aula31-Intermediario\obj\Debug\Aula31-Intermediario.pdb
